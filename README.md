@@ -38,14 +38,21 @@
 
   四、 基础文法
 
- S -> $B$
-  ​	B -> BB
-  ​	B-> B_^{B}{B}
-  ​	B -> B^{B}
-  ​	B -> B_{B}
-  ​	B- > \int{B}{B}{B}
-  ​	B -> \sum{B}{B}{B}
-  ​	B -> id | num | \blank | (B)  
+S -> $B$
+
+B -> BB
+
+B-> B_^{B}{B}
+
+B -> B^{B}
+
+B -> B_{B}
+
+B- > \int{B}{B}{B}
+
+B -> \sum{B}{B}{B}
+
+B -> id | num | \blank | (B)  
 
   五、 输入输出
 
