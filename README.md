@@ -1,0 +1,2 @@
+# FormulorTranslator
+一种类似Latex的数学公式排版语言的翻译器
